@@ -1,0 +1,12 @@
+name: TDM
+version: 1.0
+main: me.TheTioLP.TDM
+website: www.zertor.de
+author: TheTioLP
+commands:
+  tdm:
+           description: TDM
+           usage: /<command>
+  items:
+           description: TDM
+           usage: /<command>
